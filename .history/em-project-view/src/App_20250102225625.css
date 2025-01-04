@@ -1,0 +1,20 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+
+.App {
+  text-align: left;
+}
+
+body {
+  background-image: url(./assets/image.png);
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  height: 90vh;
+  background-repeat: no-repeat;
+  b
+}

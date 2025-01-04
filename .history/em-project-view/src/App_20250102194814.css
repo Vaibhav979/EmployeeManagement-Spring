@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.App {
+  text-align: left;
+}
+
+.test {
+  @apply text-red-500;
+}
+
+body {
+  background-image: url("./assets/image.png");
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  height: 90vh;
+}
